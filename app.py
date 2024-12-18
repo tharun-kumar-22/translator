@@ -5,7 +5,7 @@ from io import BytesIO
 import zipfile
 from datetime import datetime
 
-st.title("Word Document Editor powered by Pfeuffer GmbH")
+st.title("Word Document Translator powered by Pfeuffer GmbH")
 st.write("Upload multilingual Word documents, edit the German version, and download all updated versions.")
 
 # Step 1: Upload Documents
